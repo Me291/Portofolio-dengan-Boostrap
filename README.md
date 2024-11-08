@@ -23,7 +23,7 @@ Bootstrap memungkinkan pengembangan web yang cepat dan responsif tanpa harus men
 ---
 
 ### Demo Proyek
-Lihat demo langsung dari portofolio ini di [sini](link-to-demo).
+Lihat demo langsung dari portofolio ini di [sini](https://incandescent-khapse-ac7fac.netlify.app/).
 
 ---
 
